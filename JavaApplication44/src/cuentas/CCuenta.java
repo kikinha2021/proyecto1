@@ -101,6 +101,7 @@ public class CCuenta {
     public void  operativa_cuenta(double cantidad){
       
       System.out.println("Datos de la cuenta ");
+      System.out.println("prueba para Git ");
       System.out.println("Nombre del cliente "+nombre);
       System.out.println("Cuenta Bancaria "+cuenta);
       System.out.println("Su saldo actual es : "+saldo);
