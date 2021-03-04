@@ -107,12 +107,6 @@ public class CCuenta {
       System.out.println("Su saldo actual es : "+saldo);
       
     }
-    
-    
-    // Creo un metodo solo para probar la funcionalidad de Git 
-    public String TesteGit(){
-      return "Teste de Git";
-    }
    
     
 }
